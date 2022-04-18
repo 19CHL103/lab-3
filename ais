@@ -1,0 +1,8 @@
+<html>
+<head>
+<style>
+<h1 style=colour:red;">a red heading </h1>
+<p "colour:blue;> a blue paragraph </p>
+</style>
+</head>
+</html>
